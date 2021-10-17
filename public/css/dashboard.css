@@ -1,0 +1,25 @@
+body {
+    background-color: aquamarine;
+}
+
+#logo {
+    border: 1px solid #000;
+    border-radius: 15%;
+}
+
+#mine_clock {
+    font-size: 2em;
+    font-weight: 500;
+}
+
+h1 {
+    font-weight: 700;
+    font-size: 3em;
+    letter-spacing: 0.2px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#mymap {
+    border: 1px solid red;
+    height: 500px;
+}
